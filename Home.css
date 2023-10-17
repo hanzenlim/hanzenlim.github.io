@@ -22,12 +22,11 @@
   font-size: 5.625rem;
   line-height: 1.1;
   letter-spacing: 5px;
-  text-shadow: 0px 2px 8px rgba(128,128,128,1);
   margin: 68px 4px 0 30px;
 }
 
 .u-section-1 .u-text-2 {
-  letter-spacing: 5px;
+  letter-spacing: 4px;
   font-family: nergishanergisha-0w1dp;
   font-size: 1.125rem;
   text-shadow: 2px 0px 8px rgba(128,128,128,1);
@@ -324,7 +323,8 @@
 }
 
 .u-section-3 .u-text-1 {
-  letter-spacing: 17px;
+  font-size: 1.625rem;
+  letter-spacing: 12px;
   margin: 60px auto 0;
 }
 
@@ -448,6 +448,7 @@
 .u-section-4 .u-image-2 {
   min-height: 396px;
   background-image: url("images/jia.jpeg");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -1169,6 +1170,12 @@
   .u-section-7 .u-text-8 {
     font-size: 3rem;
   }
+}.u-section-8 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-8 .u-custom-html-1 {
+  margin-bottom: 60px;
 }.roundedBorder {
    border-radius: 50px
 }@font-face {
