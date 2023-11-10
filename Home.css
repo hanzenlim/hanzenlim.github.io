@@ -577,15 +577,16 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1497px;
+    min-height: 1602px;
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 370px;
+    min-height: 462px;
   }
 
   .u-section-4 .u-image-1 {
-    height: 308px;
+    height: 423px;
+    margin-top: 9px;
   }
 
   .u-section-4 .u-image-2 {
@@ -593,11 +594,15 @@
   }
 
   .u-section-4 .u-layout-cell-3 {
-    min-height: 213px;
+    min-height: 264px;
   }
 
   .u-section-4 .u-shape-1 {
-    width: 340px;
+    height: 770px;
+    margin-top: 80px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-4 .u-image-3 {
@@ -745,14 +750,22 @@
     margin-right: calc(((100% - 340px) / 2));
   }
 
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .u-section-5 .u-text-1 {
     font-size: 1.875rem;
-    margin-left: 0;
+    width: auto;
+    margin-left: 20px;
   }
 
   .u-section-5 .u-text-2 {
-    margin-left: 0;
+    width: auto;
+    margin-top: 20px;
     margin-right: 0;
+    margin-left: 20px;
   }
 }.u-section-6 .u-sheet-1 {
   min-height: 649px;
@@ -896,11 +909,15 @@
 
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 1112px;
+    min-height: 863px;
   }
 
   .u-section-6 .u-text-1 {
-    margin-top: 60px;
+    margin-top: 322px;
+  }
+
+  .u-section-6 .u-list-1 {
+    margin-bottom: 42px;
   }
 
   .u-section-6 .u-repeater-1 {
@@ -917,10 +934,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-6 .u-text-1 {
-    margin-top: 29px;
-  }
-
   .u-section-6 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
@@ -1009,7 +1022,7 @@
 }
 
 .u-section-7 .u-container-layout-2 {
-  padding: 10px;
+  padding: 10px 0;
 }
 
 .u-section-7 .u-icon-1 {
@@ -1079,8 +1092,6 @@
 }
 
 .u-section-7 .u-text-4 {
-  font-weight: 700;
-  font-family: "Abril Fatface";
   letter-spacing: 4px;
   text-transform: uppercase;
   font-size: 1.25rem;
@@ -1089,7 +1100,7 @@
 
 .u-section-7 .u-text-5 {
   font-size: 1.375rem;
-  margin: 36px 15px 0;
+  margin: 36px 8px 0;
 }
 
 .u-section-7 .u-layout-cell-5 {
@@ -1107,8 +1118,6 @@
 }
 
 .u-section-7 .u-text-6 {
-  font-weight: 700;
-  font-family: "Abril Fatface";
   letter-spacing: 4px;
   text-transform: uppercase;
   font-size: 1.25rem;
@@ -1122,7 +1131,22 @@
 
 @media (max-width: 1199px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 467px;
+    min-height: 527px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .u-section-7 .u-text-4 {
+    font-weight: 700;
+    font-family: "Abril Fatface";
+  }
+
+  .u-section-7 .u-text-6 {
+    font-weight: 700;
+    font-family: "Abril Fatface";
   }
 }
 
@@ -1149,6 +1173,11 @@
 
   .u-section-7 .u-layout-cell-4 {
     min-height: 100px;
+  }
+
+  .u-section-7 .u-text-5 {
+    margin-left: 15px;
+    margin-right: 15px;
   }
 
   .u-section-7 .u-layout-cell-5 {
@@ -1202,25 +1231,44 @@
   }
 
   .u-section-7 .u-layout-cell-3 {
-    min-height: 382px;
+    min-height: 267px;
+  }
+
+  .u-section-7 .u-text-3 {
+    width: auto;
+    margin-top: 15px;
+    margin-right: 66px;
+    margin-left: auto;
   }
 
   .u-section-7 .u-layout-cell-4 {
-    min-height: 171px;
+    min-height: 188px;
+  }
+
+  .u-section-7 .u-text-4 {
+    width: auto;
+    margin-top: 24px;
   }
 
   .u-section-7 .u-text-5 {
     width: auto;
-    margin-top: 0;
+    margin-top: 2px;
   }
 
   .u-section-7 .u-layout-cell-5 {
-    min-height: 171px;
+    min-height: 187px;
+  }
+
+  .u-section-7 .u-text-6 {
+    width: auto;
+    margin-top: 18px;
+    margin-right: auto;
   }
 
   .u-section-7 .u-text-7 {
     width: auto;
     margin-top: 0;
+    margin-right: auto;
   }
 } .u-section-8 {
   background-image: none;
