@@ -1372,6 +1372,9 @@
   }
 }.roundedBorder img {
    border-radius: 12px
+}
+.colorWhite {
+	color: white;
 }@font-face {
   font-family: 'nergishanergisha-0w1dp';
   font-style: normal;
