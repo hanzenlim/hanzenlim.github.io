@@ -88,33 +88,17 @@
 .u-section-1 .u-text-2 {
   line-height: 1.8;
   font-size: 1.375rem;
-  margin: 30px 25px 0;
-}
-
-.u-section-1 .u-btn-1 {
-  border-style: solid;
-  padding: 0;
-}
-
-.u-section-1 .u-btn-2 {
-  font-family: Montserrat, sans-serif;
-  font-size: 1.375rem;
-  font-weight: 700;
-  text-align: center;
-  border-top-style: solid;
-  border-right-style: solid;
-  border-left-style: solid;
-  padding: 0;
+  margin: 27px 25px 0;
 }
 
 .u-section-1 .u-icon-1 {
   height: 54px;
   width: 54px;
-  margin: -253px auto 0 27px;
+  margin: -250px auto 0 27px;
   padding: 0;
 }
 
-.u-section-1 .u-btn-3 {
+.u-section-1 .u-btn-1 {
   font-weight: 700;
   font-size: 1rem;
   letter-spacing: 1px;
@@ -130,7 +114,7 @@
   padding: 0;
 }
 
-.u-section-1 .u-btn-4 {
+.u-section-1 .u-btn-2 {
   font-weight: 700;
   font-size: 1rem;
   letter-spacing: 1px;
@@ -145,7 +129,7 @@
   margin: 140px 25px 0;
 }
 
-.u-section-1 .u-btn-5 {
+.u-section-1 .u-btn-3 {
   background-image: none;
   padding: 0;
 }
@@ -184,20 +168,11 @@
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: 27px;
     margin-right: -22px;
     margin-left: 22px;
   }
 
-  .u-section-1 .u-btn-2 {
-    border-style: solid;
-  }
-
-  .u-section-1 .u-icon-1 {
-    margin-top: -250px;
-  }
-
-  .u-section-1 .u-btn-3 {
+  .u-section-1 .u-btn-1 {
     margin-top: -50px;
     margin-left: 108px;
   }
@@ -206,7 +181,7 @@
     margin-top: 24px;
   }
 
-  .u-section-1 .u-btn-4 {
+  .u-section-1 .u-btn-2 {
     margin-top: -54px;
     margin-left: 108px;
   }
@@ -262,13 +237,13 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-btn-3 {
+  .u-section-1 .u-btn-1 {
     margin-top: -49px;
     margin-right: 19px;
     margin-left: auto;
   }
 
-  .u-section-1 .u-btn-4 {
+  .u-section-1 .u-btn-2 {
     margin-right: 19px;
     margin-left: auto;
   }
@@ -307,12 +282,12 @@
     min-height: 596px;
   }
 
-  .u-section-1 .u-btn-3 {
+  .u-section-1 .u-btn-1 {
     margin-top: -50px;
     margin-left: 108px;
   }
 
-  .u-section-1 .u-btn-4 {
+  .u-section-1 .u-btn-2 {
     margin-top: -50px;
     margin-left: 107px;
   }
@@ -363,7 +338,7 @@
     margin-left: -14px;
   }
 
-  .u-section-1 .u-btn-3 {
+  .u-section-1 .u-btn-1 {
     margin-right: 18px;
     margin-left: auto;
   }
@@ -373,7 +348,7 @@
     margin-left: -14px;
   }
 
-  .u-section-1 .u-btn-4 {
+  .u-section-1 .u-btn-2 {
     margin-right: 18px;
     margin-left: auto;
   }
