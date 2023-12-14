@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/IMG_0664-levoTwin-min.jpg");
+  background-image: url("images/HomeSplashWebsite-v2.png");
   background-position: 50% 50%;
 }
 
@@ -88,15 +88,19 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    background-position: 65.93% 50%;
+    background-position: 24.58% 50%;
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 681px;
+    min-height: 508px;
   }
 
   .u-section-1 .u-group-1 {
-    width: 340px;
+    min-height: 332px;
+    margin-top: 176px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -106,16 +110,18 @@
 
   .u-section-1 .u-text-1 {
     font-size: 2.8125rem;
+    width: auto;
+    margin-top: 109px;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 0.875rem;
     width: auto;
-    margin-top: 0;
+    margin-top: 7px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 14px;
+    margin-top: 31px;
   }
 } .u-section-2 {
   background-image: none;
@@ -627,7 +633,7 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 569px;
+  min-height: 641px;
 }
 
 .u-section-5 .u-text-1 {
@@ -640,7 +646,7 @@
 
 .u-section-5 .u-gallery-1 {
   margin-top: 30px;
-  margin-bottom: 60px;
+  margin-bottom: 0;
   height: 375px;
 }
 
@@ -734,6 +740,16 @@
   right: 10px;
   width: 40px;
   height: 40px;
+}
+
+.u-section-5 .u-btn-1 {
+  --radius: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 44px auto 46px;
 }
 
 @media (max-width: 1199px) {
@@ -1017,7 +1033,6 @@
   font-size: 1rem;
   letter-spacing: 1px;
   background-image: none;
-  box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
   margin: 22px auto 0;
   padding: 10px 30px;
 }
@@ -1047,7 +1062,6 @@
   font-size: 1rem;
   letter-spacing: 1px;
   background-image: none;
-  box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
   margin: 23px auto 0;
   padding: 10px 30px;
 }
@@ -1075,12 +1089,14 @@
   letter-spacing: 4px;
   text-transform: uppercase;
   font-size: 1.25rem;
-  margin: 46px auto 0;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  margin: 32px auto 0;
 }
 
 .u-section-7 .u-text-5 {
   font-size: 1.375rem;
-  margin: 36px 8px 0;
+  margin: 23px 8px 0;
 }
 
 .u-section-7 .u-layout-cell-5 {
@@ -1101,12 +1117,14 @@
   letter-spacing: 4px;
   text-transform: uppercase;
   font-size: 1.25rem;
-  margin: 45px 61px 0 auto;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  margin: 30px 61px 0 auto;
 }
 
 .u-section-7 .u-text-7 {
   font-size: 1.375rem;
-  margin: 37px 0 0 auto;
+  margin: 23px 0 0 auto;
 }
 
 @media (max-width: 1199px) {
