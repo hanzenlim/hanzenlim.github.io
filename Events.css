@@ -17,6 +17,7 @@
 
 .u-section-1 .u-layout-cell-1 {
   min-height: 320px;
+  --radius: 50px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -45,6 +46,7 @@
 
 .u-section-1 .u-layout-cell-2 {
   min-height: 368px;
+  --radius: 50px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -89,6 +91,7 @@
 
 .u-section-1 .u-layout-cell-5 {
   min-height: 346px;
+  --radius: 50px;
 }
 
 .u-section-1 .u-container-layout-5 {
@@ -117,6 +120,7 @@
 
 .u-section-1 .u-layout-cell-6 {
   min-height: 376px;
+  --radius: 50px;
 }
 
 .u-section-1 .u-container-layout-6 {
@@ -155,12 +159,10 @@
 
   .u-section-1 .u-layout-cell-1 {
     min-height: 344px;
-    --radius: 50px;
   }
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 332px;
-    --radius: 50px;
   }
 
   .u-section-1 .u-layout-cell-3 {
@@ -173,12 +175,10 @@
 
   .u-section-1 .u-layout-cell-5 {
     min-height: 355px;
-    --radius: 50px;
   }
 
   .u-section-1 .u-layout-cell-6 {
     min-height: 342px;
-    --radius: 50px;
   }
 }
 
