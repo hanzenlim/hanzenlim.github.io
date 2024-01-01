@@ -423,323 +423,73 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 488px;
+  min-height: 2077px;
 }
 
 .u-section-3 .u-text-1 {
   font-size: 1.875rem;
-  width: auto;
   font-weight: 700;
-  margin: 23px 0 0;
+  margin: 39px 0 0;
 }
 
-.u-section-3 .u-layout-wrap-1 {
-  margin: 27px 0 21px;
+.u-section-3 .u-custom-html-1 {
+  margin-top: 30px;
+  margin-bottom: 0;
 }
 
-.u-section-3 .u-layout-cell-1 {
-  min-height: 400px;
+.u-section-3 .u-custom-html-2 {
+  margin-top: 51px;
+  margin-bottom: 0;
+  height: auto;
+  min-height: 322px;
 }
 
-.u-section-3 .u-container-layout-1 {
-  padding: 20px;
+.u-section-3 .u-custom-html-3 {
+  height: auto;
+  min-height: 322px;
+  margin-top: 51px;
+  margin-bottom: 0;
 }
 
-.u-section-3 .embed-responsive-1 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
+.u-section-3 .u-custom-html-4 {
+  height: auto;
+  min-height: 322px;
+  margin-top: 51px;
+  margin-bottom: 0;
 }
 
-.u-section-3 .u-layout-cell-2 {
-  min-height: 400px;
-}
-
-.u-section-3 .u-container-layout-2 {
-  padding: 20px;
-}
-
-.u-section-3 .embed-responsive-2 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
+.u-section-3 .u-custom-html-5 {
+  height: auto;
+  min-height: 399px;
+  margin-top: 51px;
+  margin-bottom: 60px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 418px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-3 .u-layout-cell-1 {
-    min-height: 330px;
-  }
-
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 330px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 341px;
-  }
-
-  .u-section-3 .u-layout-cell-1 {
-    min-height: 253px;
-  }
-
-  .u-section-3 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 253px;
-  }
-
-  .u-section-3 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 843px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-top: 23px;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-3 .u-layout-cell-1 {
-    min-height: 380px;
-  }
-
-  .u-section-3 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 380px;
-  }
-
-  .u-section-3 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 561px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-top: 81px;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
-  .u-section-3 .u-layout-cell-1 {
-    min-height: 239px;
-  }
-
-  .u-section-3 .u-layout-cell-2 {
-    min-height: 239px;
-  }
-} .u-section-4 {
-  background-image: none;
-}
-
-.u-section-4 .u-sheet-1 {
-  min-height: 400px;
-}
-
-.u-section-4 .u-layout-wrap-1 {
-  width: 1140px;
-  margin: 10px 0 20px;
-}
-
-.u-section-4 .u-layout-cell-1 {
-  min-height: 400px;
-}
-
-.u-section-4 .u-container-layout-1 {
-  padding: 20px;
-}
-
-.u-section-4 .embed-responsive-1 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
-}
-
-.u-section-4 .u-layout-cell-2 {
-  min-height: 400px;
-}
-
-.u-section-4 .u-container-layout-2 {
-  padding: 20px;
-}
-
-.u-section-4 .embed-responsive-2 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
-}
-
-@media (max-width: 1199px) {
-  .u-section-4 .u-layout-wrap-1 {
-    width: 940px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-4 .u-layout-wrap-1 {
-    width: 720px;
-  }
-
-  .u-section-4 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-4 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: auto;
-  }
-
-  .u-section-4 .u-layout-wrap-1 {
-    width: 540px;
-  }
-
-  .u-section-4 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-4 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-4 .u-layout-wrap-1 {
-    width: 340px;
-  }
-} .u-section-5 {
-  background-image: none;
-}
-
-.u-section-5 .u-sheet-1 {
-  min-height: 490px;
-}
-
-.u-section-5 .u-layout-wrap-1 {
-  width: 1140px;
-  margin: 20px 0 60px;
-}
-
-.u-section-5 .u-layout-cell-1 {
-  min-height: 400px;
-}
-
-.u-section-5 .u-container-layout-1 {
-  padding: 20px;
-}
-
-.u-section-5 .embed-responsive-1 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
-}
-
-.u-section-5 .u-layout-cell-2 {
-  min-height: 400px;
-}
-
-.u-section-5 .u-container-layout-2 {
-  padding: 20px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 400px;
-  }
-
-  .u-section-5 .u-layout-wrap-1 {
-    width: 940px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-5 .u-layout-wrap-1 {
-    width: 720px;
-  }
-
-  .u-section-5 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-5 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: auto;
-  }
-
-  .u-section-5 .u-layout-wrap-1 {
-    width: 540px;
-  }
-
-  .u-section-5 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-5 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-5 .u-layout-wrap-1 {
-    width: 340px;
+  .u-section-3 .u-text-1 {
+    width: auto;
   }
 }.roundedBorder img {
    border-radius: 12px
+}
+.center {
+  margin: auto	
+}
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
 }@font-face {
   font-family: 'nergishanergisha-0w1dp';
   font-style: normal;
