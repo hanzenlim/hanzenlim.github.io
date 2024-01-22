@@ -133,12 +133,12 @@
 
 .u-section-2 .u-list-1 {
   margin-top: 47px;
-  margin-bottom: 47px;
+  margin-bottom: 60px;
 }
 
 .u-section-2 .u-repeater-1 {
   grid-template-columns: calc(25% - 12px) calc(25% - 12px) calc(25% - 12px) calc(25% - 12px);
-  min-height: 308px;
+  min-height: 286px;
   grid-gap: 16px 16px;
 }
 
@@ -147,7 +147,7 @@
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 30px 20px;
+  padding: 30px 20px 26px;
 }
 
 .u-section-2 .u-icon-1 {
@@ -227,7 +227,7 @@
 }
 
 .u-section-2 .u-container-layout-4 {
-  padding: 30px 20px;
+  padding: 30px 20px 26px;
 }
 
 .u-section-2 .u-icon-4 {
@@ -555,7 +555,7 @@
 }
 
 .u-section-5 .u-layout-wrap-1 {
-  margin-top: 58px;
+  margin-top: 56px;
   margin-bottom: 0;
 }
 
@@ -593,7 +593,7 @@
 .u-section-5 .u-shape-1 {
   height: 788px;
   width: 375px;
-  margin: 62px 0 0 auto;
+  margin: 61px 0 0 auto;
 }
 
 .u-section-5 .u-image-3 {
@@ -605,15 +605,15 @@
 .u-section-5 .u-text-1 {
   font-size: 1.25rem;
   letter-spacing: 2px;
-  font-family: Lora-Regular;
-  margin: -592px 39px 0;
+  font-family: Montserrat, sans-serif;
+  margin: -576px 16px 0 62px;
 }
 
 .u-section-5 .u-text-2 {
   font-size: 1.25rem;
   letter-spacing: 2px;
-  font-family: Lora-Regular;
-  margin: 14px 585px 60px 0;
+  font-family: Montserrat, sans-serif;
+  margin: 15px 570px 60px 15px;
 }
 
 @media (max-width: 1199px) {
@@ -644,6 +644,7 @@
 
   .u-section-5 .u-text-2 {
     margin-right: 385px;
+    margin-left: 0;
   }
 }
 
@@ -682,7 +683,7 @@
   }
 
   .u-section-5 .u-text-1 {
-    margin-top: -505px;
+    margin-top: -489px;
   }
 
   .u-section-5 .u-text-2 {
@@ -740,7 +741,7 @@
 
   .u-section-5 .u-shape-1 {
     height: 770px;
-    margin-top: 80px;
+    margin-top: 79px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -756,7 +757,9 @@
 
   .u-section-5 .u-text-1 {
     width: auto;
-    margin: 34px 19px -422px;
+    margin-top: 34px;
+    margin-left: 19px;
+    margin-right: 19px;
   }
 
   .u-section-5 .u-text-2 {
@@ -764,7 +767,7 @@
     margin-top: -254px;
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 649px;
+  min-height: 675px;
 }
 
 .u-section-6 .u-text-1 {
@@ -781,7 +784,7 @@
 
 .u-section-6 .u-list-1 {
   margin-top: 56px;
-  margin-bottom: 29px;
+  margin-bottom: 55px;
   grid-template-rows: auto;
 }
 
@@ -990,16 +993,16 @@
     font-size: 1.5rem;
   }
 }.u-section-7 .u-sheet-1 {
-  min-height: 625px;
+  min-height: 488px;
 }
 
 .u-section-7 .u-layout-wrap-1 {
   width: 873px;
-  margin: 61px auto 60px;
+  margin: 0 auto 56px;
 }
 
 .u-section-7 .u-layout-cell-1 {
-  min-height: 174px;
+  min-height: 154px;
 }
 
 .u-section-7 .u-container-layout-1 {
@@ -1014,7 +1017,7 @@
 }
 
 .u-section-7 .u-layout-cell-2 {
-  min-height: 314px;
+  min-height: 278px;
 }
 
 .u-section-7 .u-container-layout-2 {
@@ -1034,16 +1037,16 @@
   letter-spacing: 1px;
   background-image: none;
   margin: 22px auto 0;
-  padding: 10px 30px;
+  padding: 10px 13px 10px 11px;
 }
 
 .u-section-7 .u-text-2 {
   font-size: 1.375rem;
-  margin: 14px 9px 0;
+  margin: 6px 9px 0;
 }
 
 .u-section-7 .u-layout-cell-3 {
-  min-height: 314px;
+  min-height: 278px;
 }
 
 .u-section-7 .u-container-layout-3 {
@@ -1063,16 +1066,16 @@
   letter-spacing: 1px;
   background-image: none;
   margin: 23px auto 0;
-  padding: 10px 30px;
+  padding: 10px 33px;
 }
 
 .u-section-7 .u-text-3 {
   font-size: 1.375rem;
-  margin: 13px auto 0 0;
+  margin: 7px auto 0 0;
 }
 
 .u-section-7 .u-layout-cell-4 {
-  min-height: 314px;
+  min-height: 278px;
 }
 
 .u-section-7 .u-container-layout-4 {
@@ -1085,22 +1088,22 @@
   margin: 15px auto 0;
 }
 
-.u-section-7 .u-text-4 {
-  letter-spacing: 4px;
-  text-transform: uppercase;
-  font-size: 1.25rem;
-  font-weight: bold;
-  font-family: "Open Sans", sans-serif;
-  margin: 32px auto 0;
+.u-section-7 .u-btn-3 {
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 23px auto 0;
+  padding: 10px 53px 10px 52px;
 }
 
-.u-section-7 .u-text-5 {
+.u-section-7 .u-text-4 {
   font-size: 1.375rem;
-  margin: 23px 8px 0;
+  margin: 5px 8px 0;
 }
 
 .u-section-7 .u-layout-cell-5 {
-  min-height: 314px;
+  min-height: 278px;
 }
 
 .u-section-7 .u-container-layout-5 {
@@ -1108,23 +1111,24 @@
 }
 
 .u-section-7 .u-icon-4 {
-  height: 48px;
-  width: 48px;
-  margin: 15px auto 0;
+  height: 57px;
+  width: 57px;
+  margin: 9px auto 0;
+  padding: 0;
 }
 
-.u-section-7 .u-text-6 {
-  letter-spacing: 4px;
-  text-transform: uppercase;
-  font-size: 1.25rem;
-  font-weight: bold;
-  font-family: "Open Sans", sans-serif;
-  margin: 30px 61px 0 auto;
+.u-section-7 .u-btn-4 {
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 20px auto 0;
+  padding: 10px 55px;
 }
 
-.u-section-7 .u-text-7 {
+.u-section-7 .u-text-5 {
   font-size: 1.375rem;
-  margin: 23px 0 0 auto;
+  margin: 5px 0 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -1135,16 +1139,6 @@
   .u-section-7 .u-layout-wrap-1 {
     margin-top: 20px;
     margin-bottom: 20px;
-  }
-
-  .u-section-7 .u-text-4 {
-    font-weight: 700;
-    font-family: "Abril Fatface";
-  }
-
-  .u-section-7 .u-text-6 {
-    font-weight: 700;
-    font-family: "Abril Fatface";
   }
 }
 
@@ -1173,17 +1167,13 @@
     min-height: 100px;
   }
 
-  .u-section-7 .u-text-5 {
-    margin-left: 15px;
-    margin-right: 15px;
+  .u-section-7 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-7 .u-layout-cell-5 {
     min-height: 100px;
-  }
-
-  .u-section-7 .u-text-6 {
-    margin-right: 50px;
   }
 }
 
@@ -1232,41 +1222,8 @@
     min-height: 267px;
   }
 
-  .u-section-7 .u-text-3 {
-    width: auto;
-    margin-top: 15px;
-    margin-right: 66px;
-    margin-left: auto;
-  }
-
-  .u-section-7 .u-layout-cell-4 {
-    min-height: 188px;
-  }
-
-  .u-section-7 .u-text-4 {
-    width: auto;
-    margin-top: 24px;
-  }
-
-  .u-section-7 .u-text-5 {
-    width: auto;
-    margin-top: 2px;
-  }
-
   .u-section-7 .u-layout-cell-5 {
     min-height: 187px;
-  }
-
-  .u-section-7 .u-text-6 {
-    width: auto;
-    margin-top: 18px;
-    margin-right: auto;
-  }
-
-  .u-section-7 .u-text-7 {
-    width: auto;
-    margin-top: 0;
-    margin-right: auto;
   }
 } .u-section-8 {
   background-image: none;
@@ -1383,9 +1340,4 @@
   font-style: normal;
   font-weight: 400;
   src: url(fonts/JWH.ttf);
-}@font-face {
-  font-family: 'Lora-Regular';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/Lora-Regular.otf);
 }
