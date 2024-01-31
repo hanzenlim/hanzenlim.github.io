@@ -43034,6 +43034,7 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
@@ -43089,10 +43090,11 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h2:not(.u-subtitle)
         {
-        font-size: 1.25rem;
+        font-size: 4.5rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        text-transform: none;
         letter-spacing: 2px;
         list-icon-spacing: 0.3;
         list-icon-size: 0.8;
@@ -43282,7 +43284,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-image:not(.u-shading) > .u-container-layout > h2:not(.u-subtitle),
         h2:not(.u-subtitle)
         {
-        color: #ff5f11;
+        color: #3a6ac3;
         }
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a,
         .u-gradient > .u-container-layout > a,
@@ -43355,7 +43357,7 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         .u-custom-color-1 h2:not(.u-subtitle),.u-custom-color-3 h2:not(.u-subtitle),.u-custom-color-4 h2:not(.u-subtitle),.u-body-color h2:not(.u-subtitle),.u-palette-1-base h2:not(.u-subtitle),.u-palette-1-dark-3 h2:not(.u-subtitle),.u-palette-1-dark-2 h2:not(.u-subtitle),.u-palette-1-dark-1 h2:not(.u-subtitle),.u-palette-1 h2:not(.u-subtitle),.u-palette-1-light-1 h2:not(.u-subtitle),.u-palette-2-base h2:not(.u-subtitle),.u-palette-2-dark-3 h2:not(.u-subtitle),.u-palette-2-dark-2 h2:not(.u-subtitle),.u-palette-2-dark-1 h2:not(.u-subtitle),.u-palette-2 h2:not(.u-subtitle),.u-palette-2-light-1 h2:not(.u-subtitle),.u-palette-3-dark-3 h2:not(.u-subtitle),.u-palette-3-dark-2 h2:not(.u-subtitle),.u-palette-3-dark-1 h2:not(.u-subtitle),.u-palette-3 h2:not(.u-subtitle),.u-palette-4-dark-3 h2:not(.u-subtitle),.u-palette-4-dark-2 h2:not(.u-subtitle),.u-palette-4-dark-1 h2:not(.u-subtitle),.u-palette-5-dark-3 h2:not(.u-subtitle),.u-palette-5-dark-2 h2:not(.u-subtitle),.u-palette-5-dark-1 h2:not(.u-subtitle),.u-grey-40 h2:not(.u-subtitle),.u-grey-30 h2:not(.u-subtitle),.u-grey-90 h2:not(.u-subtitle),.u-grey-80 h2:not(.u-subtitle),.u-grey-75 h2:not(.u-subtitle),.u-black h2:not(.u-subtitle),.u-grey-70 h2:not(.u-subtitle),.u-grey-60 h2:not(.u-subtitle),.u-grey-50 h2:not(.u-subtitle),.u-grey-dark-3 h2:not(.u-subtitle),.u-grey-dark-2 h2:not(.u-subtitle),.u-grey-dark-1 h2:not(.u-subtitle),.u-grey h2:not(.u-subtitle),.u-shading h2:not(.u-subtitle),.u-overlap-contrast .u-header h2:not(.u-subtitle):not(.u-nav-link):not(.u-btn)
         {
-        color: #ffffff;
+        color: #b3c9f3;
         }
         .u-custom-color-1 a,.u-custom-color-3 a,.u-custom-color-4 a,.u-body-color a,.u-palette-1-base a,.u-palette-1-dark-3 a,.u-palette-1-dark-2 a,.u-palette-1-dark-1 a,.u-palette-1 a,.u-palette-1-light-1 a,.u-palette-2-base a,.u-palette-2-dark-3 a,.u-palette-2-dark-2 a,.u-palette-2-dark-1 a,.u-palette-2 a,.u-palette-2-light-1 a,.u-palette-3-dark-3 a,.u-palette-3-dark-2 a,.u-palette-3-dark-1 a,.u-palette-3 a,.u-palette-4-dark-3 a,.u-palette-4-dark-2 a,.u-palette-4-dark-1 a,.u-palette-5-dark-3 a,.u-palette-5-dark-2 a,.u-palette-5-dark-1 a,.u-grey-40 a,.u-grey-30 a,.u-grey-90 a,.u-grey-80 a,.u-grey-75 a,.u-black a,.u-grey-70 a,.u-grey-60 a,.u-grey-50 a,.u-grey-dark-3 a,.u-grey-dark-2 a,.u-grey-dark-1 a,.u-grey a,.u-shading a,.u-overlap-contrast .u-header a:not(.u-nav-link):not(.u-btn)
         {
