@@ -331,31 +331,23 @@
     padding-right: 4px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 600px;
+  min-height: 400px;
 }
 
-.u-section-4 .embed-responsive-1 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
+.u-section-4 .u-custom-html-1 {
+  margin-bottom: 60px;
+}.u-section-5 .u-sheet-1 {
+  min-height: 400px;
 }
 
-@media (max-width: 767px) {
-  .u-section-4 .embed-responsive-1 {
-    width: 198%;
-    left: -49%;
-    height: 100%;
-    top: 0%;
-  }
+.u-section-5 .u-custom-html-1 {
+  margin-bottom: 60px;
+}.u-section-6 .u-sheet-1 {
+  min-height: 400px;
 }
 
-@media (max-width: 575px) {
-  .u-section-4 .embed-responsive-1 {
-    width: 314%;
-    left: -107%;
-  }
+.u-section-6 .u-custom-html-1 {
+  margin-bottom: 60px;
 }.roundedBorder img {
    border-radius: 12px
 }
@@ -369,6 +361,22 @@
     display: flex;
 	flex-direction: column;
 	z-index: 999999
+}
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
 }@font-face {
   font-family: 'nergishanergisha-0w1dp';
   font-style: normal;
