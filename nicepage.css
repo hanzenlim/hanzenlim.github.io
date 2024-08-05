@@ -43443,13 +43443,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 126px;
+    min-height: 177px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: 33px;
+    margin-left: -6px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -61px;
+    margin-top: -106px;
     margin-right: 0;
-    margin-bottom: 39px;
+    margin-left: 308px;
   }
 }
  .u-footer {
