@@ -427,8 +427,10 @@
 }
 
 .u-section-3 .u-text-1 {
-  font-size: 3.75rem;
+  font-size: 3rem;
+  font-family: SFPRODISPLAYBOLD;
   font-weight: 700;
+  letter-spacing: 1px;
   margin: 39px 0 0;
 }
 
@@ -490,6 +492,11 @@
   right: 0;
   width: 100%;
   height: 100%;
+}@font-face {
+  font-family: 'SFPRODISPLAYBOLD';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SFPRODISPLAYBOLD.OTF);
 }@font-face {
   font-family: 'nergishanergisha-0w1dp';
   font-style: normal;

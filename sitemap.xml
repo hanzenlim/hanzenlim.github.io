@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.levohotel.com/home.html</loc>
-        <lastmod>2024-08-21T10:26:43-04:00</lastmod>
+        <lastmod>2024-08-30T11:46:31-04:00</lastmod>
     </url>
     <url>
         <loc>https://www.levohotel.com/index.html</loc>
-        <lastmod>2024-08-21T10:26:43-04:00</lastmod>
+        <lastmod>2024-08-30T11:46:31-04:00</lastmod>
     </url>
     <url>
         <loc>https://www.levohotel.com/contact.html</loc>
@@ -14,7 +14,7 @@
     </url>
     <url>
         <loc>https://www.levohotel.com/event-venues.html</loc>
-        <lastmod>2024-01-31T17:49:31-05:00</lastmod>
+        <lastmod>2024-08-30T11:45:07-04:00</lastmod>
     </url>
     <url>
         <loc>https://www.levohotel.com/review.html</loc>
@@ -26,10 +26,14 @@
     </url>
     <url>
         <loc>https://www.levohotel.com/weddings.html</loc>
-        <lastmod>2024-03-04T21:35:57-05:00</lastmod>
+        <lastmod>2024-08-30T11:48:57-04:00</lastmod>
     </url>
     <url>
         <loc>https://www.levohotel.com/birthdays.html</loc>
-        <lastmod>2024-03-04T21:37:13-05:00</lastmod>
+        <lastmod>2024-08-30T11:47:23-04:00</lastmod>
+    </url>
+    <url>
+        <loc>https://www.levohotel.com/rooms.html</loc>
+        <lastmod>2024-08-30T11:55:19-04:00</lastmod>
     </url>
 </urlset>
