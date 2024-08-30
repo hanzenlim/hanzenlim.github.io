@@ -44,6 +44,7 @@
   padding-bottom: 14px;
   font-family: SFPRODISPLAYBOLD;
   font-weight: 700;
+  --radius: 41px;
   margin: 21px auto 0 26px;
 }
 
@@ -123,7 +124,7 @@
   }
 
   .u-section-1 .u-btn-1 {
-    --radius: 21px;
+    --radius: 40px;
     margin-top: 8px;
   }
 } .u-section-2 {
