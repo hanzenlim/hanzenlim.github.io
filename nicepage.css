@@ -43639,12 +43639,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     margin-top: 9px;
-    margin-right: 278px;
-    margin-left: -28px;
+    margin-right: auto;
   }
 
   .u-header .u-menu-1 {
-    margin: -55px -16px 19px auto;
+    margin-top: -55px;
+    margin-bottom: 19px;
+    margin-left: auto;
   }
 }
  .u-footer {

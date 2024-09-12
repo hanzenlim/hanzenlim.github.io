@@ -1,6 +1,5 @@
  .u-section-1 {
   background-image: url("images/HomeSplashWebsite-v2.png");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -40,15 +39,19 @@
   font-size: 1.125rem;
   letter-spacing: 1px;
   background-image: none;
-  padding-top: 14px;
-  padding-bottom: 14px;
   font-family: SFPRODISPLAYBOLD;
   font-weight: 700;
   --radius: 15px;
+  padding-top: 13px;
+  padding-bottom: 13px;
   margin: 15px auto 0 30px;
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 571px;
   }
