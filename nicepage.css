@@ -43552,13 +43552,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 191px;
+  min-height: 69px;
 }
 
 .u-header .u-image-1 {
-  width: 119px;
-  height: 112px;
-  margin: 40px auto 0 -19px;
+  width: 110px;
+  height: 55px;
+  margin: 7px auto 0 15px;
 }
 
 .u-header .u-logo-image-1 {
@@ -43567,7 +43567,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -76px 0 60px auto;
+  margin: -47px 0 15px 493px;
 }
 
 .u-header .u-nav-1 {
@@ -43591,42 +43591,60 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 272px;
+    min-height: 68px;
   }
 
   .u-header .u-image-1 {
-    width: 119px;
-    margin-left: -19px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -76px;
-    margin-right: 0;
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-sheet-1 {
-    min-height: 190px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-sheet-1 {
-    min-height: 280px;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 190px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: 39px;
-    margin-right: 240px;
+    margin-top: 4px;
+    margin-right: 808px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -117px;
+    margin: -45px 0 14px auto;
+  }
+}
+@media (max-width: 991px) {
+  .u-header .u-image-1 {
+    margin-top: 7px;
+    margin-right: 588px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -55px;
+    margin-bottom: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 67px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: 6px;
+    margin-right: 441px;
+    margin-left: 0;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -52px;
+    margin-bottom: 10px;
+    margin-left: 508px;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 76px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: 9px;
+    margin-right: 278px;
+    margin-left: -28px;
+  }
+
+  .u-header .u-menu-1 {
+    margin: -55px -16px 19px auto;
   }
 }
  .u-footer {

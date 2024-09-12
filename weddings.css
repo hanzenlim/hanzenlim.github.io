@@ -38,6 +38,7 @@
 .u-section-1 .u-text-1 {
   letter-spacing: 3px;
   font-family: SFPRODISPLAYBOLD;
+  font-size: 4.5rem;
   margin: 20px -185px 0 0;
 }
 
@@ -66,7 +67,6 @@
     width: auto;
     position: relative;
     margin-right: -153px;
-    font-size: 4.5rem;
   }
 
   .u-section-1 .u-text-2 {

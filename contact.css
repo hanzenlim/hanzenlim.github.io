@@ -7,8 +7,7 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 78px;
-  margin-bottom: 60px;
+  margin: 0 0 60px;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -76,6 +75,7 @@
 .u-section-1 .u-text-1 {
   width: auto;
   font-size: 2.5rem;
+  font-family: SFPRODISPLAYBOLD;
   margin: 129px 25px 0;
 }
 
@@ -88,6 +88,8 @@
 .u-section-1 .u-text-2 {
   line-height: 1.8;
   font-size: 1.375rem;
+  font-family: SFPRODISPLAYMEDIUM;
+  letter-spacing: 2px;
   margin: 31px 25px 0;
 }
 
@@ -130,6 +132,8 @@
 
   .u-section-1 .u-layout-wrap-1 {
     margin-top: 82px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -190,6 +194,8 @@
 
   .u-section-1 .u-layout-wrap-1 {
     margin-top: 84px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -305,6 +311,8 @@
 
   .u-section-1 .u-layout-wrap-1 {
     margin-top: -57px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -328,8 +336,8 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 1.875rem;
     margin-top: 23px;
+    font-size: 1.875rem;
   }
 
   .u-section-1 .u-line-1 {
@@ -362,6 +370,16 @@
   min-height: 400px;
 }.roundedBorder img {
   border-radius: 12px
+}@font-face {
+  font-family: 'SFPRODISPLAYBOLD';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SFPRODISPLAYBOLD.OTF);
+}@font-face {
+  font-family: 'SFPRODISPLAYMEDIUM';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SFPRODISPLAYMEDIUM.OTF);
 }@font-face {
   font-family: 'nergishanergisha-0w1dp';
   font-style: normal;
