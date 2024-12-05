@@ -23,17 +23,6 @@
   padding: 30px;
 }
 
-.u-section-1 .u-shape-1 {
-  width: 170px;
-  height: 170px;
-  --animation-custom_in-translate_x: -300px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 0.3;
-  margin: 0 auto 0 0;
-}
-
 .u-section-1 .u-image-1 {
   width: 475px;
   height: 475px;
@@ -44,18 +33,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 0.3;
-  margin: -80px 0 0 auto;
-}
-
-.u-section-1 .u-shape-2 {
-  width: 117px;
-  height: 117px;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 300px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 0.3;
-  margin: -109px auto 0 119px;
+  margin: 219px 0 0 auto;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -146,10 +124,6 @@
     height: 426px;
   }
 
-  .u-section-1 .u-shape-2 {
-    margin-top: -59px;
-  }
-
   .u-section-1 .u-layout-cell-2 {
     min-height: 1011px;
   }
@@ -208,22 +182,12 @@
     padding-right: 0;
   }
 
-  .u-section-1 .u-shape-1 {
-    margin-top: 78px;
-    margin-left: 30px;
-  }
-
   .u-section-1 .u-image-1 {
     width: 480px;
     height: 480px;
-    margin-top: -181px;
+    margin-top: 67px;
     margin-left: -78px;
     margin-right: -78px;
-  }
-
-  .u-section-1 .u-shape-2 {
-    margin-top: -82px;
-    margin-left: 210px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -278,13 +242,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: -20px;
-  }
-
-  .u-section-1 .u-shape-2 {
-    margin-top: -146px;
-    margin-bottom: 29px;
-    margin-left: 53px;
+    margin-top: 228px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -324,24 +282,12 @@
     padding-top: 0;
   }
 
-  .u-section-1 .u-shape-1 {
-    margin-top: 0;
-  }
-
   .u-section-1 .u-image-1 {
     width: 290px;
     height: 290px;
-    margin-top: -162px;
+    margin-top: 8px;
     margin-left: auto;
     margin-right: auto;
-  }
-
-  .u-section-1 .u-shape-2 {
-    width: 96px;
-    height: 96px;
-    margin-top: -10px;
-    margin-bottom: 0;
-    margin-left: 37px;
   }
 
   .u-section-1 .u-layout-cell-2 {

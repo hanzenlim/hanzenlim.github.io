@@ -435,7 +435,9 @@
   }
 
   .u-section-2 .u-text-2 {
+    font-size: 1rem;
     width: auto;
+    font-weight: 400;
     margin-top: 25px;
   }
 
