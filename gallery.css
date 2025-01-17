@@ -29,10 +29,29 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 366px;
+    min-height: 304px;
   }
 
   .u-section-2 .u-custom-html-1 {
+    height: auto;
+    min-height: 304px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-3 .u-custom-html-1 {
+  margin-bottom: 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 366px;
+  }
+
+  .u-section-3 .u-custom-html-1 {
     height: auto;
     min-height: 304px;
     margin-top: 0;
