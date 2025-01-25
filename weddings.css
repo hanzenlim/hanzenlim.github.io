@@ -133,11 +133,12 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 567px;
+    min-height: 539px;
   }
 
   .u-section-1 .u-shape-1 {
     height: 411px;
+    margin-top: 91px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -146,14 +147,15 @@
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 230px;
-    margin-top: -480px;
-    margin-right: 0;
+    margin-top: -457px;
+    margin-right: auto;
+    margin-left: -24px;
   }
 
   .u-section-1 .u-image-2 {
     width: 340px;
     height: 235px;
-    margin-top: -189px;
+    margin-top: -212px;
     margin-right: 0;
   }
 
@@ -266,7 +268,7 @@
     height: 1565px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 559px;
+  min-height: 363px;
 }
 
 .u-section-3 .u-group-1 {
@@ -282,11 +284,12 @@
 }
 
 .u-section-3 .u-text-1 {
+  font-family: SFPRODISPLAYBOLD;
   margin: 15px 0 0;
 }
 
 .u-section-3 .u-custom-html-1 {
-  margin: 30px auto 60px;
+  margin: 30px 0;
 }
 
 @media (max-width: 1199px) {
@@ -325,21 +328,69 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 247px;
+  }
+
+  .u-section-3 .u-group-1 {
+    min-height: 70px;
+    margin-top: 1px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-3 .u-container-layout-1 {
     padding-left: 4px;
     padding-right: 4px;
   }
+
+  .u-section-3 .u-custom-html-1 {
+    width: 340px;
+    margin-top: 0;
+    margin-bottom: 19px;
+  }
 }.u-section-4 .u-sheet-1 {
-  min-height: 176px;
+  min-height: 216px;
 }
 
 .u-section-4 .u-custom-html-1 {
-  margin: 1px auto 60px;
+  margin: 30px 0;
 }.u-section-5 .u-sheet-1 {
-  min-height: 176px;
+  min-height: 217px;
 }
 
 .u-section-5 .u-custom-html-1 {
+  width: 1140px;
+  margin: 0 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-custom-html-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-custom-html-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 247px;
+  }
+
+  .u-section-5 .u-custom-html-1 {
+    width: 340px;
+    margin-top: 30px;
+  }
+}.u-section-6 .u-sheet-1 {
+  min-height: 176px;
+}
+
+.u-section-6 .u-custom-html-1 {
   margin: 1px auto 60px;
 }.roundedBorder img {
    border-radius: 12px
