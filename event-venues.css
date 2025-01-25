@@ -475,10 +475,11 @@
 }
 
 .u-section-4 .u-text-1 {
-  font-size: 3rem;
+  font-size: 2.25rem;
   font-family: SFPRODISPLAYBOLD;
   font-weight: 700;
   letter-spacing: 1px;
+  text-transform: uppercase;
   margin: 39px 0 0;
 }
 
@@ -518,6 +519,31 @@
 @media (max-width: 1199px) {
   .u-section-4 .u-text-1 {
     width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1210px;
+  }
+
+  .u-section-4 .u-custom-html-2 {
+    min-height: 168px;
+  }
+
+  .u-section-4 .u-custom-html-3 {
+    min-height: 169px;
+    margin-top: 47px;
+  }
+
+  .u-section-4 .u-custom-html-4 {
+    min-height: 178px;
+    margin-top: 21px;
+  }
+
+  .u-section-4 .u-custom-html-5 {
+    min-height: 189px;
+    margin-top: 31px;
   }
 }.roundedBorder img {
    border-radius: 12px
