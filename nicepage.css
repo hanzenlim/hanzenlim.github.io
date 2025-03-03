@@ -15366,6 +15366,13 @@ section.u-image:not(.u-hover-box),
   display: flex;
   flex: 1;
 }
+.u-post-category {
+  width: -webkit-max-content;
+  width: max-content;
+}
+.u-post-category a {
+  display: inline-block;
+}
 .u-metadata {
   display: table;
 }
@@ -44964,6 +44971,7 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 991px;
@@ -45087,6 +45095,7 @@ a.u-link.u-text-hover-grey-90:hover {
         border-left-style: none;
         border-right-style: none;
         border-bottom-style: none;
+        line-height: 1.4;
         }
         blockquote
         {
