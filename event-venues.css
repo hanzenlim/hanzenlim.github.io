@@ -466,15 +466,34 @@
   .u-section-3 .u-sheet-1 {
     min-height: 442px;
   }
-} .u-section-4 {
-  background-image: none;
-}
-
-.u-section-4 .u-sheet-1 {
-  min-height: 2077px;
+}.u-section-4 .u-sheet-1 {
+  min-height: 772px;
+  margin-bottom: 0;
 }
 
 .u-section-4 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 16px 0 0;
+}
+
+.u-section-4 .u-custom-html-1 {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 442px;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 2077px;
+}
+
+.u-section-5 .u-text-1 {
   font-size: 2.25rem;
   font-family: SFPRODISPLAYBOLD;
   font-weight: 700;
@@ -483,33 +502,33 @@
   margin: 39px 0 0;
 }
 
-.u-section-4 .u-custom-html-1 {
+.u-section-5 .u-custom-html-1 {
   margin-top: 30px;
   margin-bottom: 0;
 }
 
-.u-section-4 .u-custom-html-2 {
+.u-section-5 .u-custom-html-2 {
   margin-top: 51px;
   margin-bottom: 0;
   height: auto;
   min-height: 322px;
 }
 
-.u-section-4 .u-custom-html-3 {
+.u-section-5 .u-custom-html-3 {
   height: auto;
   min-height: 322px;
   margin-top: 51px;
   margin-bottom: 0;
 }
 
-.u-section-4 .u-custom-html-4 {
+.u-section-5 .u-custom-html-4 {
   height: auto;
   min-height: 322px;
   margin-top: 51px;
   margin-bottom: 0;
 }
 
-.u-section-4 .u-custom-html-5 {
+.u-section-5 .u-custom-html-5 {
   height: auto;
   min-height: 399px;
   margin-top: 51px;
@@ -517,31 +536,31 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 .u-text-1 {
+  .u-section-5 .u-text-1 {
     width: auto;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-4 .u-sheet-1 {
+  .u-section-5 .u-sheet-1 {
     min-height: 1210px;
   }
 
-  .u-section-4 .u-custom-html-2 {
+  .u-section-5 .u-custom-html-2 {
     min-height: 168px;
   }
 
-  .u-section-4 .u-custom-html-3 {
+  .u-section-5 .u-custom-html-3 {
     min-height: 169px;
     margin-top: 47px;
   }
 
-  .u-section-4 .u-custom-html-4 {
+  .u-section-5 .u-custom-html-4 {
     min-height: 178px;
     margin-top: 21px;
   }
 
-  .u-section-4 .u-custom-html-5 {
+  .u-section-5 .u-custom-html-5 {
     min-height: 189px;
     margin-top: 31px;
   }
