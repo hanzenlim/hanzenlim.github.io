@@ -145,6 +145,7 @@
 
 .u-section-2 .u-gallery-inner-1 {
   grid-template-columns: repeat(3, auto);
+  --gap: 0px;
 }
 
 .u-section-2 .u-gallery-item-1 {
@@ -303,7 +304,7 @@
   grid-auto-columns: calc(25% - 7.5px);
   grid-template-columns: repeat(4, calc(25% - 7.5px));
   min-height: 299px;
-  grid-gap: 10px;
+  --gap: 10px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -446,6 +447,7 @@
 
   .u-section-3 .u-repeater-1 {
     min-height: 283px;
+    grid-gap: 10px;
   }
 }
 
@@ -619,7 +621,7 @@
   grid-auto-columns: calc(25% - 7.5px);
   grid-template-columns: repeat(4, calc(25% - 7.5px));
   min-height: 299px;
-  grid-gap: 10px;
+  --gap: 10px;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -762,6 +764,7 @@
 
   .u-section-4 .u-repeater-1 {
     min-height: 283px;
+    grid-gap: 10px;
   }
 }
 
@@ -1281,9 +1284,10 @@
 }
 
 .u-section-7 .u-repeater-1 {
-  grid-template-columns: calc(33.3333% - 20px) calc(33.3333% - 20px) calc(33.3333% - 20px);
+  grid-template-columns: repeat(3, calc(33.3333% - 20px));
   min-height: 491px;
-  grid-gap: 30px 30px;
+  --gap: 30px;
+  grid-auto-columns: calc(33.3333% - 20px);
 }
 
 .u-section-7 .u-image-1 {
@@ -1415,7 +1419,9 @@
 
   .u-section-7 .u-repeater-1 {
     grid-template-columns: repeat(3, calc(33.333333333333336% - 20px));
-    min-height: 400px;
+    grid-gap: 30px 30px;
+    min-height: 405px;
+    grid-auto-columns: calc(33.333333333333336% - 20px);
   }
 
   .u-section-7 .u-text-2 {
@@ -1435,12 +1441,17 @@
   .u-section-7 .u-repeater-1 {
     grid-template-columns: repeat(2, calc(50% - 15px));
     min-height: 971px;
+    grid-auto-columns: calc(50% - 15px);
   }
 }
 
 @media (max-width: 767px) {
   .u-section-7 .u-text-1 {
     width: 540px;
+  }
+
+  .u-section-7 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
   }
 
   .u-section-7 .u-container-layout-1 {
@@ -1481,6 +1492,7 @@
 
   .u-section-7 .u-repeater-1 {
     grid-template-columns: 100%;
+    grid-auto-columns: 100%;
   }
 
   .u-section-7 .u-container-layout-1 {
@@ -1518,9 +1530,10 @@
 }
 
 .u-section-8 .u-repeater-1 {
-  grid-template-columns: calc(25% - 12px) calc(25% - 12px) calc(25% - 12px) calc(25% - 12px);
+  grid-template-columns: repeat(4, calc(25% - 12px));
   min-height: 286px;
-  grid-gap: 16px 16px;
+  --gap: 16px;
+  grid-auto-columns: calc(25% - 12px);
 }
 
 .u-section-8 .u-list-item-1 {
@@ -1645,8 +1658,8 @@
   }
 
   .u-section-8 .u-repeater-1 {
-    grid-template-columns: repeat(4, calc(25% - 12px));
     min-height: 386px;
+    grid-gap: 16px 16px;
   }
 
   .u-section-8 .u-text-2 {
@@ -1674,18 +1687,21 @@
   .u-section-8 .u-repeater-1 {
     grid-template-columns: repeat(2, calc(50% - 8px));
     min-height: 702px;
+    grid-auto-columns: calc(50% - 8px);
   }
 }
 
 @media (max-width: 767px) {
   .u-section-8 .u-repeater-1 {
     min-height: 725px;
+    grid-auto-columns: calc(100% - 0px);
   }
 }
 
 @media (max-width: 575px) {
   .u-section-8 .u-repeater-1 {
     grid-template-columns: 100%;
+    grid-auto-columns: 100%;
   }
 } .u-section-9 {
   background-image: linear-gradient(to bottom, rgba(242, 242, 242, 1), rgba(242, 242, 242, 1));
