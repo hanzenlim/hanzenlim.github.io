@@ -331,7 +331,9 @@
   min-height: 400px;
 }.roundedBorder img {
   border-radius: 12px
-}@font-face {
+}
+/* page-custom-fonts */
+@font-face {
   font-family: 'SFPRODISPLAYBOLD';
   font-style: normal;
   font-weight: 400;
