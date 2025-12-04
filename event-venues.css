@@ -610,6 +610,11 @@
   right: 0;
   width: 100%;
   height: 100%;
+}@font-face {
+  font-family: 'nergishanergisha-0w1dp';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/nergishanergisha-0w1dp.otf);
 }
 /* page-custom-fonts */
 @font-face {
@@ -617,4 +622,9 @@
   font-style: normal;
   font-weight: 400;
   src: url(fonts/SFPRODISPLAYBOLD.OTF);
+}@font-face {
+  font-family: 'nergishanergisha-0w1dp';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/nergishanergisha-0w1dp.otf);
 }
