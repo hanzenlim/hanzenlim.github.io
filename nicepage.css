@@ -22761,12 +22761,37 @@ a.pswp__share--download:hover {
   min-width: fit-content;
   --gap: 0;
 }
+.u-product-variation.u-product-variation-horizontal .u-product-variant {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 10px;
+  align-items: center;
+}
+.u-product-variation.u-product-variation-horizontal .u-product-variant label {
+  margin: 0;
+}
+.u-product-variation.u-align-center label {
+  text-align: center;
+}
+.u-product-variation.u-align-center .u-product-variant-colors {
+  justify-content: center;
+}
+.u-product-variation.u-align-left label {
+  text-align: left;
+}
+.u-product-variation.u-align-left .u-product-variant-colors {
+  justify-content: flex-start;
+}
+.u-product-variation.u-align-right label {
+  text-align: right;
+}
+.u-product-variation.u-align-right .u-product-variant-colors {
+  justify-content: flex-end;
+}
 .u-product-variant-tags,
 .u-product-variant-colors {
   display: flex;
   flex-flow: row wrap;
-  max-width: -webkit-fit-content;
-  max-width: fit-content;
   gap: var(--gap);
 }
 .u-product-variant-tags {

@@ -11,191 +11,169 @@
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
   }
-} .u-section-2 {
-  min-height: 0;
+}.u-section-2 .u-sheet-1 {
+  min-height: 144px;
 }
 
-.u-section-2 .u-layout-wrap-1 {
-  margin-top: -26px;
-  margin-bottom: 0;
-}
-
-.u-section-2 .u-layout-cell-1 {
-  min-height: 355px;
-}
-
-.u-section-2 .u-container-layout-1 {
-  padding: 30px;
-}
-
-.u-section-2 .u-text-1 {
-  margin: 0;
-}
-
-.u-section-2 .u-text-2 {
-  margin: 22px 0 0;
-}
-
-.u-section-2 .u-image-1 {
-  --radius: 40px;
-  min-height: 355px;
-  background-position: 50% 50%;
-  background-image: url("images/LevoHotel-1-min1.jpg");
-  background-size: cover;
-}
-
-.u-section-2 .u-container-layout-2 {
-  padding: 0 30px;
-}
-
-.u-section-2 .u-btn-1 {
-  --radius: 20px;
-  background-image: none;
-  font-weight: 700;
-  box-shadow: 0px 0px 5px 0px rgba(128,128,128,1);
-  margin: 242px auto 0;
-}
-
-.u-section-2 .u-image-2 {
-  --radius: 40px;
-  min-height: 355px;
-  background-position: 50% 50%;
-  background-image: url("images/LevoHotel-48-min1.jpg");
-  background-size: cover;
-}
-
-.u-section-2 .u-container-layout-3 {
-  padding: 20px 30px;
-}
-
-.u-section-2 .u-btn-2 {
-  background-image: none;
-  --radius: 20px;
-  font-weight: 700;
-  box-shadow: -2px 0px 5px 0px rgba(128,128,128,1);
+.u-section-2 .u-list-1 {
+  width: 994px;
   margin: 0 auto;
 }
 
+.u-section-2 .u-repeater-1 {
+  grid-auto-columns: calc(16.6667% - 8.33333px);
+  grid-template-columns: repeat(6, calc(16.6667% - 8.33333px));
+  min-height: 144px;
+  --gap: 10px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-1 {
+  width: 171px;
+  margin: 14px auto 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-icon-2 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  width: 171px;
+  margin: 14px auto 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-icon-3 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-3 {
+  width: 171px;
+  margin: 14px auto 0;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-icon-4 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-4 {
+  width: 171px;
+  margin: 14px auto 0;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-icon-5 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-5 {
+  width: 171px;
+  margin: 14px auto 0;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-icon-6 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-6 {
+  width: 171px;
+  margin: 14px auto 0;
+}
+
 @media (max-width: 1199px) {
-   .u-section-2 {
-    min-height: 1263px;
+  .u-section-2 .u-list-1 {
+    width: 940px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    margin-top: 329px;
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 293px;
-  }
-
-  .u-section-2 .u-image-1 {
-    min-height: 293px;
-  }
-
-  .u-section-2 .u-image-2 {
-    min-height: 293px;
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(16.666666666666668% - 8.333333333333334px);
+    grid-template-columns: repeat(6, calc(16.666666666666668% - 8.333333333333334px));
+    min-height: 136px;
   }
 }
 
 @media (max-width: 991px) {
-   .u-section-2 {
-    min-height: 1279px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    margin-top: 350px;
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 100px;
-  }
-
-  .u-section-2 .u-image-1 {
-    min-height: 309px;
-  }
-
-  .u-section-2 .u-image-2 {
-    min-height: 309px;
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(33.333333333333336% - 6.666666666666667px);
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 6.666666666666667px));
+    min-height: 544px;
   }
 }
 
 @media (max-width: 767px) {
-   .u-section-2 {
-    min-height: 1581px;
+  .u-section-2 .u-list-1 {
+    width: 540px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    margin-top: 255px;
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    order: 1;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-image-1 {
-    order: 0;
-    min-height: 505px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-image-2 {
-    min-height: 505px;
-  }
-
-  .u-section-2 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(50% - 5px);
+    grid-template-columns: repeat(2, calc(50% - 5px));
+    min-height: 703px;
   }
 }
 
 @media (max-width: 575px) {
-   .u-section-2 {
-    min-height: 0;
+  .u-section-2 .u-sheet-1 {
+    min-height: 431px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    margin-top: -33px;
-  }
-
-  .u-section-2 .u-text-1 {
+  .u-section-2 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
     width: auto;
-    margin-right: auto;
   }
 
-  .u-section-2 .u-text-2 {
-    width: auto;
-    margin-top: 15px;
+  .u-section-2 .u-repeater-1 {
+    min-height: 431px;
   }
 
-  .u-section-2 .u-image-1 {
-    min-height: 334px;
-  }
-
-  .u-section-2 .u-btn-1 {
-    margin-top: 227px;
-  }
-
-  .u-section-2 .u-image-2 {
-    min-height: 318px;
+  .u-section-2 .u-container-layout-6 {
+    padding-bottom: 0;
   }
 } .u-section-3 {
-  min-height: 379px;
+  min-height: 0;
 }
 
 .u-section-3 .u-layout-wrap-1 {
   margin-top: -26px;
   margin-bottom: 0;
-  background-image: none;
 }
 
 .u-section-3 .u-layout-cell-1 {
@@ -215,15 +193,43 @@
 }
 
 .u-section-3 .u-image-1 {
-  min-height: 355px;
-  background-image: url("images/ChatGPTImageDec3202509_28_31PM.png");
   --radius: 40px;
-  background-size: cover;
+  min-height: 355px;
   background-position: 50% 50%;
+  background-image: url("images/LevoHotel-1-min1.jpg");
+  background-size: cover;
 }
 
 .u-section-3 .u-container-layout-2 {
   padding: 0 30px;
+}
+
+.u-section-3 .u-btn-1 {
+  --radius: 20px;
+  background-image: none;
+  font-weight: 700;
+  box-shadow: 0px 0px 5px 0px rgba(128,128,128,1);
+  margin: 242px auto 0;
+}
+
+.u-section-3 .u-image-2 {
+  --radius: 40px;
+  min-height: 355px;
+  background-position: 50% 50%;
+  background-image: url("images/LevoHotel-48-min1.jpg");
+  background-size: cover;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 20px 30px;
+}
+
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  --radius: 20px;
+  font-weight: 700;
+  box-shadow: -2px 0px 5px 0px rgba(128,128,128,1);
+  margin: 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -242,6 +248,10 @@
   .u-section-3 .u-image-1 {
     min-height: 293px;
   }
+
+  .u-section-3 .u-image-2 {
+    min-height: 293px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -258,6 +268,10 @@
   }
 
   .u-section-3 .u-image-1 {
+    min-height: 309px;
+  }
+
+  .u-section-3 .u-image-2 {
     min-height: 309px;
   }
 }
@@ -289,6 +303,15 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-3 .u-image-2 {
+    min-height: 505px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -313,6 +336,14 @@
   .u-section-3 .u-image-1 {
     min-height: 334px;
   }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: 227px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 318px;
+  }
 } .u-section-4 {
   min-height: 379px;
 }
@@ -320,6 +351,7 @@
 .u-section-4 .u-layout-wrap-1 {
   margin-top: -26px;
   margin-bottom: 0;
+  background-image: none;
 }
 
 .u-section-4 .u-layout-cell-1 {
@@ -340,7 +372,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 355px;
-  background-image: url("images/playRoom.png");
+  background-image: url("images/ChatGPTImageDec3202509_28_31PM.png");
   --radius: 40px;
   background-size: cover;
   background-position: 50% 50%;
@@ -417,12 +449,11 @@
 
 @media (max-width: 575px) {
    .u-section-4 {
-    min-height: 607px;
+    min-height: 0;
   }
 
   .u-section-4 .u-layout-wrap-1 {
-    margin-top: -9px;
-    margin-bottom: -24px;
+    margin-top: -33px;
   }
 
   .u-section-4 .u-text-1 {
@@ -436,6 +467,131 @@
   }
 
   .u-section-4 .u-image-1 {
+    min-height: 334px;
+  }
+} .u-section-5 {
+  min-height: 379px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: -26px;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 355px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 22px 0 0;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 355px;
+  background-image: url("images/playRoom.png");
+  --radius: 40px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 0 30px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-5 {
+    min-height: 1263px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: 329px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 293px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 293px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-5 {
+    min-height: 1279px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: 350px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 309px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-5 {
+    min-height: 1581px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: 255px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    order: 1;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-1 {
+    order: 0;
+    min-height: 505px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-5 {
+    min-height: 607px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: -9px;
+    margin-bottom: -24px;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: auto;
+    margin-right: auto;
+  }
+
+  .u-section-5 .u-text-2 {
+    width: auto;
+    margin-top: 15px;
+  }
+
+  .u-section-5 .u-image-1 {
     min-height: 334px;
   }
 }@font-face {
