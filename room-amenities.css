@@ -37,11 +37,11 @@
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 355px;
-  background-image: url("images/LevoHotel-1-min1.jpg");
   --radius: 40px;
-  background-size: cover;
+  min-height: 355px;
   background-position: 50% 50%;
+  background-image: url("images/LevoHotel-1-min1.jpg");
+  background-size: cover;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -57,10 +57,11 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: url("images/LevoHotel-48-min1.jpg");
   --radius: 40px;
   min-height: 355px;
   background-position: 50% 50%;
+  background-image: url("images/LevoHotel-48-min1.jpg");
+  background-size: cover;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -339,7 +340,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 355px;
-  background-image: url("images/brian-zajac-Wp4fR7J0c0Y-unsplash.jpg");
+  background-image: url("images/playRoom.png");
   --radius: 40px;
   background-size: cover;
   background-position: 50% 50%;
