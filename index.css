@@ -18,20 +18,12 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 5.625rem;
-  line-height: 1.1;
-  letter-spacing: 5px;
-  font-family: nergishanergisha-0w1dp;
-  margin: 68px 4px 0 30px;
-}
-
-.u-section-1 .u-text-2 {
   letter-spacing: 2px;
   font-family: SFPRODISPLAYBOLD;
-  font-size: 1.125rem;
+  font-size: 1.875rem;
   text-transform: none;
   font-weight: 700;
-  margin: -7px 0 0 30px;
+  margin: 61px 0 0 30px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -78,11 +70,6 @@
 
   .u-section-1 .u-text-1 {
     margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-left: 0;
   }
 
   .u-section-1 .u-btn-1 {
@@ -97,11 +84,10 @@
 
   .u-section-1 .u-group-1 {
     min-height: 332px;
+    width: 340px;
     margin-top: 183px;
     margin-bottom: 0;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    margin-left: -31px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -110,16 +96,10 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 3.125rem;
-    width: auto;
-    margin-top: 73px;
-  }
-
-  .u-section-1 .u-text-2 {
-    font-size: 0.875rem;
+    font-size: 1.5rem;
     width: auto;
     line-height: 1.45;
-    margin-top: -6px;
+    margin-top: 67px;
   }
 
   .u-section-1 .u-btn-1 {
@@ -2255,11 +2235,6 @@
 }
 /* page-custom-fonts */
 @font-face {
-  font-family: 'nergishanergisha-0w1dp';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/nergishanergisha-0w1dp.otf);
-}@font-face {
   font-family: 'SFPRODISPLAYBOLD';
   font-style: normal;
   font-weight: 400;
@@ -2274,4 +2249,9 @@
   font-style: normal;
   font-weight: 400;
   src: url(fonts/SFPRODISPLAYMEDIUM.OTF);
+}@font-face {
+  font-family: 'nergishanergisha-0w1dp';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/nergishanergisha-0w1dp.otf);
 }

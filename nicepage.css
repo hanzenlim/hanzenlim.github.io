@@ -47434,7 +47434,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-image-1 {
-  width: 110px;
+  width: 220px;
   height: 55px;
   margin: 7px auto 0 15px;
 }
@@ -47501,11 +47501,19 @@ a.u-link.u-text-hover-color-var:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 78px;
+  }
+
   .u-header .u-image-1 {
+    margin-top: 12px;
     margin-right: auto;
+    margin-left: -35px;
   }
 
   .u-header .u-menu-1 {
+    margin-top: -52px;
+    margin-bottom: 15px;
     margin-left: auto;
   }
 }
