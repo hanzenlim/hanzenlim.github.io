@@ -772,6 +772,18 @@
   .u-section-4 .u-text-2 {
     margin-left: 698px;
   }
+
+  .u-section-4 .u-carousel-item-1 {
+    margin-right: initial;
+  }
+
+  .u-section-4 .u-carousel-item-2 {
+    margin-right: initial;
+  }
+
+  .u-section-4 .u-carousel-item-3 {
+    margin-right: initial;
+  }
 }
 
 @media (max-width: 991px) {
@@ -940,6 +952,14 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+  .u-section-5 .u-carousel-item-1 {
+    margin-right: initial;
+  }
+
+  .u-section-5 .u-carousel-item-2 {
+    margin-right: initial;
+  }
 }
 
 @media (max-width: 991px) {
@@ -1103,6 +1123,14 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+  .u-section-6 .u-carousel-item-1 {
+    margin-right: initial;
+  }
+
+  .u-section-6 .u-carousel-item-2 {
+    margin-right: initial;
+  }
 }
 
 @media (max-width: 991px) {
@@ -1250,6 +1278,14 @@
 
   .u-section-7 .u-text-3 {
     margin-left: 698px;
+  }
+
+  .u-section-7 .u-carousel-item-1 {
+    margin-right: initial;
+  }
+
+  .u-section-7 .u-carousel-item-2 {
+    margin-right: initial;
   }
 }
 
@@ -1421,6 +1457,14 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+  .u-section-8 .u-carousel-item-1 {
+    margin-right: initial;
+  }
+
+  .u-section-8 .u-carousel-item-2 {
+    margin-right: initial;
+  }
 }
 
 @media (max-width: 991px) {
@@ -1504,6 +1548,180 @@
     margin-bottom: 60px;
     margin-right: initial;
     margin-left: initial;
+  }
+}.u-section-9 .u-sheet-1 {
+  min-height: 793px;
+}
+
+.u-section-9 .u-btn-1 {
+  background-image: none;
+  --radius: 13px;
+  font-family: SFPRODISPLAYBOLD;
+  margin: 22px 0 0 auto;
+}
+
+.u-section-9 .u-text-1 {
+  font-family: SFPRODISPLAYMEDIUM;
+  font-size: 3rem;
+  margin: -43px 735px 0 0;
+}
+
+.u-section-9 .u-text-2 {
+  font-family: SFPRODISPLAYREGULAR;
+  font-size: 1.125rem;
+  text-transform: uppercase;
+  margin: 1px 0 0;
+}
+
+.u-section-9 .u-text-3 {
+  font-family: SFPRODISPLAYBOLD;
+  margin: -29px 0 0 898px;
+}
+
+.u-section-9 .u-gallery-1 {
+  height: 625px;
+  margin-top: 22px;
+  margin-bottom: 52px;
+}
+
+.u-section-9 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-9 .u-gallery-inner-1 {
+  --gap: 0px;
+}
+
+.u-section-9 .u-carousel-item-1 {
+  margin-right: 0;
+}
+
+.u-section-9 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-9 .u-carousel-item-2 {
+  margin-right: 0;
+}
+
+.u-section-9 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-9 .u-carousel-item-3 {
+  margin-right: 0;
+}
+
+.u-section-9 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-9 .u-carousel-control-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-9 .u-carousel-control-2 {
+  position: absolute;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-text-1 {
+    font-family: SFPRODISPLAYBOLD;
+    margin-right: 535px;
+  }
+
+  .u-section-9 .u-text-3 {
+    margin-left: 698px;
+  }
+
+  .u-section-9 .u-carousel-item-1 {
+    margin-right: initial;
+  }
+
+  .u-section-9 .u-carousel-item-2 {
+    margin-right: initial;
+  }
+
+  .u-section-9 .u-carousel-item-3 {
+    margin-right: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-9 .u-btn-1 {
+    margin-top: 37px;
+  }
+
+  .u-section-9 .u-text-1 {
+    width: auto;
+    margin-top: -51px;
+    margin-right: 315px;
+  }
+
+  .u-section-9 .u-text-2 {
+    margin-top: -4px;
+  }
+
+  .u-section-9 .u-text-3 {
+    width: auto;
+    margin-top: -22px;
+    margin-left: 478px;
+  }
+
+  .u-section-9 .u-gallery-1 {
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-text-1 {
+    margin-top: 20px;
+    margin-right: 135px;
+  }
+
+  .u-section-9 .u-text-3 {
+    margin-left: 298px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-btn-1 {
+    margin-top: 39px;
+    margin-left: 0;
+    padding: 9px 128px 11px 126px;
+  }
+
+  .u-section-9 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: -448px;
+    margin-right: 88px;
+  }
+
+  .u-section-9 .u-text-2 {
+    width: auto;
+    margin-top: 0;
+  }
+
+  .u-section-9 .u-text-3 {
+    margin-top: 296px;
+    margin-left: 0;
+  }
+
+  .u-section-9 .u-gallery-1 {
+    margin-top: -313px;
+    margin-bottom: -276px;
   }
 }.roundedBorder img {
    border-radius: 12px
