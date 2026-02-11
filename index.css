@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/HomeSplashWebsite-v2.png");
+  background-image: url("images/premier-double.png");
   background-position: 50% 50%;
 }
 
@@ -24,7 +24,7 @@
   font-size: 1.875rem;
   text-transform: none;
   font-weight: 700;
-  margin: 61px 0 0 30px;
+  margin: 159px 0 0 30px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -37,7 +37,7 @@
   --radius: 15px;
   padding-top: 13px;
   padding-bottom: 13px;
-  margin: 15px auto 0 30px;
+  margin: 17px auto 0 30px;
 }
 
 @media (max-width: 1199px) {
@@ -81,8 +81,8 @@
 
   .u-section-1 .u-group-1 {
     min-height: 332px;
-    margin-top: 144px;
-    margin-bottom: 39px;
+    margin-top: 81px;
+    margin-bottom: 60px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -97,12 +97,12 @@
     font-size: 1.5rem;
     width: auto;
     line-height: 1.45;
-    margin-top: 67px;
+    margin-top: 153px;
   }
 
   .u-section-1 .u-btn-1 {
     --radius: 40px;
-    margin-top: 8px;
+    margin-top: 10px;
   }
 } .u-section-2 {
   background-image: none;
