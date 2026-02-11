@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("images/HomeSplashWebsite-v2.png");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -40,10 +41,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 571px;
   }
@@ -84,10 +81,11 @@
 
   .u-section-1 .u-group-1 {
     min-height: 332px;
-    width: 340px;
-    margin-top: 183px;
-    margin-bottom: 0;
-    margin-left: -31px;
+    margin-top: 144px;
+    margin-bottom: 39px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-container-layout-1 {
