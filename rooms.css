@@ -1342,11 +1342,11 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 477px;
+    min-height: 526px;
   }
 
   .u-section-7 .u-btn-1 {
-    margin-top: 402px;
+    margin-top: 436px;
     margin-left: 0;
     padding: 9px 128px 11px 126px;
   }
@@ -1527,11 +1527,12 @@
 
 @media (max-width: 575px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 464px;
+    min-height: 472px;
   }
 
   .u-section-8 .u-text-1 {
     font-size: 1.875rem;
+    margin-top: 33px;
     margin-right: 0;
   }
 
@@ -1555,7 +1556,7 @@
   .u-section-8 .u-gallery-1 {
     height: 216px;
     margin-top: -251px;
-    margin-bottom: 60px;
+    margin-bottom: 136px;
     margin-right: initial;
     margin-left: initial;
   }

@@ -155,3 +155,10 @@
   font-weight: 400;
   src: url(fonts/nergishanergisha-0w1dp.otf);
 }
+/* page-custom-fonts */
+@font-face {
+  font-family: 'nergishanergisha-0w1dp';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/nergishanergisha-0w1dp.otf);
+}
